@@ -2,8 +2,10 @@
 
 Experimental Security Plugins For Vanir
 
--[0] XV6 cryptography 
--[0] SV9 cryptography
+XV6 cryptography | SV9 cryptography
+   ------------  | -------------
+1                    2
+
 
 
 
